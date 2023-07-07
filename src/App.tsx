@@ -21,7 +21,7 @@ function App() {
         />
         <Cocktail
           name="Jungle_Bird"
-          alk={40}
+          alk={13}
           ingredients={[
             "Rum",
             "Ananassaft",
@@ -32,12 +32,12 @@ function App() {
         />
         <Cocktail
           name="Mai_Tai"
-          alk={40}
+          alk={25}
           ingredients={["Rum", "Zuckersirup", "Limettensaft", "Mandelsirup"]}
         />
         <Cocktail
           name="Blue_Hawaii"
-          alk={40}
+          alk={10}
           ingredients={[
             "Wodka",
             "Rum",
@@ -49,7 +49,7 @@ function App() {
         />
         <Cocktail
           name="Hurricane"
-          alk={40}
+          alk={8}
           ingredients={[
             "Rum",
             "Maracujas",
