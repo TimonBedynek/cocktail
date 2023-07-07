@@ -36,7 +36,7 @@ function App() {
           ingredients={["Rum", "Zuckersirup", "Limettensaft", "Mandelsirup"]}
         />
         <Cocktail
-          name="Blue Hawaii"
+          name="Blue_Hawaii"
           alk={40}
           ingredients={[
             "Wodka",
