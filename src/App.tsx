@@ -7,7 +7,7 @@ function App() {
       <Header header="Cocktails" />
       <div className="row">
         <Cocktail
-          name="Bahama Mama"
+          name="Bahama_Mama"
           alk={10}
           ingredients={[
             "Zitronensaft",
@@ -20,7 +20,7 @@ function App() {
           ]}
         />
         <Cocktail
-          name="Jungle Bird"
+          name="Jungle_Bird"
           alk={40}
           ingredients={[
             "Rum",
@@ -31,7 +31,7 @@ function App() {
           ]}
         />
         <Cocktail
-          name="Mai Tai"
+          name="Mai_Tai"
           alk={40}
           ingredients={["Rum", "Zuckersirup", "Limettensaft", "Mandelsirup"]}
         />
